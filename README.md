@@ -12,6 +12,6 @@
 - `analysis_sensitivity.R`: sensitivity analysis by applying different BC emission factors
 
 ## Contact
->Chen Chen ([Email](cc143@rice.edu))<br>
+>Chen Chen ([Email](mailto:cc143@rice.edu))<br>
 >Graduate student @ [Rice](rice.edu)
 
